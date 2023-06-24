@@ -1,18 +1,18 @@
 -- import: fastn
 
--- fastn.package: 2256haradityam.github.io/profile
-favicon: /-/2256haradityam.github.io/profile/favicon.ico
+-- import: fastn-community.github.io/opensans-typography as opensans
+
+-- fastn.package: gargajit.github.io/ui-template
+favicon: /-/gargajit.github.io/ui-template/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/footer as fo
+-- fastn.dependency: fastn-community.github.io/roboto-typography as mr
+-- fastn.dependency: fastn-community.github.io/opensans-typography as mt
+-- fastn.dependency: fastn-community.github.io/dark-mode-switcher as dms
 
--- fastn.auto-import: 2256haradityam.github.io/profile/FASTN/ds
--- fastn.auto-import: 2256haradityam.github.io/profile/assets
+-- fastn.auto-import: gargajit.github.io/ui-template/FASTN/ds
+-- fastn.auto-import: gargajit.github.io/ui-template/assets
 -- fastn.auto-import: doc-site
+-- fastn.auto-import: dms
 
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
